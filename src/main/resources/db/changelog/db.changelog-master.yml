@@ -1,0 +1,10 @@
+databaseChangeLog:
+  - logicalFilePath: db-changelog-master
+  - changeSet:
+      id: schema
+      author: liquibase
+      changes:
+        - sqlFile:
+            encoding: UTF-8
+            relativeToChangelogFile: true
+            path: init-db.sql
