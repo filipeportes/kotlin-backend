@@ -13,10 +13,10 @@ this will package and execute tests
 this will start the application and initialize the h2 database with the contact table 
 
 ## Contact Rest API
-GET localhost:8080/contacts to list all
-GET localhost:8080/contact/{id} to list one
-POST localhost:8080/contact to add one
-DELETE localhost:8080/contact/{id} to delete one
+GET `localhost:8080/contacts` to list all  
+GET `localhost:8080/contact/{id}` to list one  
+POST `localhost:8080/contact` to add one  
+DELETE `localhost:8080/contact/{id}` to delete one  
 
 adding a new contact: 
 
