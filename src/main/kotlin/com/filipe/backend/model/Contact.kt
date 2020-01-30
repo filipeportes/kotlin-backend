@@ -1,4 +1,4 @@
-package com.raisin.kotlin.backend.model
+package com.filipe.backend.model
 
 import java.time.LocalDate
 import javax.persistence.*

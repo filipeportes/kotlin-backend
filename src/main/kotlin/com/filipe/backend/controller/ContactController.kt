@@ -1,7 +1,7 @@
-package com.raisin.kotlin.backend.controller
+package com.filipe.backend.controller
 
-import com.raisin.kotlin.backend.model.Contact
-import com.raisin.kotlin.backend.repository.ContactRepository
+import com.filipe.backend.model.Contact
+import com.filipe.backend.repository.ContactRepository
 import mu.KLogging
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.MediaType

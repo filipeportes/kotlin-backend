@@ -1,6 +1,6 @@
-package com.raisin.kotlin.backend.repository
+package com.filipe.backend.repository
 
-import com.raisin.kotlin.backend.model.Contact
+import com.filipe.backend.model.Contact
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.transaction.annotation.Transactional
 

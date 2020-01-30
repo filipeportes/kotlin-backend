@@ -1,4 +1,4 @@
-package com.raisin.kotlin.backend
+package com.filipe.backend
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule

@@ -1,4 +1,4 @@
-package com.raisin.kotlin.backend.controller
+package com.filipe.backend.controller
 
 import mu.KLogging
 import org.springframework.web.bind.annotation.GetMapping

@@ -1,7 +1,7 @@
-package com.raisin.kotlin.backend
+package com.filipe.backend
 
-import com.raisin.kotlin.backend.model.Contact
-import com.raisin.kotlin.backend.repository.ContactRepository
+import com.filipe.backend.model.Contact
+import com.filipe.backend.repository.ContactRepository
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotNull
 import org.junit.jupiter.api.Test
