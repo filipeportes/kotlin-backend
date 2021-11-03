@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: kotlin-backend
+  description: bakcend system with kotlin + spring-boot
+spec:
+  owner: team-a
+  domain: domain-a
